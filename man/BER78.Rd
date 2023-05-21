@@ -1,10 +1,6 @@
 \name{BER78}
-\alias{Table4}
-\alias{Table2}
-\alias{Table1}
-\alias{Table5}
+\alias{BER78}
 \alias{BER90}
-\alias{.loaded}
 
 \docType{data}
 \title{Tables supplied by BER78 and BER90}
@@ -32,10 +28,9 @@ insolation and Quaternary climatic changes, J. Atmos. Sci., 35,
   Berger and M.F. Loutre (1991), Insolation values for the climate of the last 10 million years,  Quaternary Science Reviews, 10, 297 - 317, doi:10.1016/0277-3791(91)90033-Q
 
 }
-\author{Michel Crucifix, U. catholique de Louvain, Belgium.}
+\author{Michel Crucifix, UCLouvain, Belgium.}
 
-\source{ftp://ftp.elic.ucl.ac.be/berger/berger78/ 
-        ftp://ftp.elic.ucl.ac.be/loutre/QSR/ }
+\source{dx.doi.org/10.5281/zenodo.7198111 and 10.5281/zenodo.7198109}
 
 \examples{ 
 data(BER78)
